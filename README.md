@@ -77,8 +77,10 @@ Snorlax isn’t lazy.
 It’s **energy efficient**.  
 So am I.
 
-<div style="text-align: center;">
+<p align="center">
   <img src="chenksANDsnorlax.jpg" alt="Snorlax sleeping schedule" width="400"/>
-  <p><i>Snorlax’s sleep cycle vs GitHub activity</i></p>
-</div>
+  <br>
+  <i>Snorlax’s sleep cycle vs GitHub activity</i>
+</p>
+
 
