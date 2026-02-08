@@ -77,3 +77,4 @@ Snorlax isn’t lazy.
 It’s **energy efficient**.  
 So am I.
 
+![Chenks and Snorlax](chenksANDsnorlax.jpg)
