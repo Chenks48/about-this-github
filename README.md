@@ -78,3 +78,5 @@ It’s **energy efficient**.
 So am I.
 
 ![Chenks and Snorlax](chenksANDsnorlax.jpg)
+<img src="chenksANDsnorlax.jpg" alt="Snorlax sleeping schedule" width="400"/>
+
